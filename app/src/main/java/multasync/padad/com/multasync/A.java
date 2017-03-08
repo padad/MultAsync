@@ -5,4 +5,5 @@ package multasync.padad.com.multasync;
  */
 
 public class A {
+    int i = 0;
 }
