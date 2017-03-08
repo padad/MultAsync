@@ -1,0 +1,20 @@
+[0308/235411:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0308/235411:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0308/235411:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0308/235411:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0308/235411:WARNING:resource_bundle.cc(497)] locale resources are not loaded
+[0308/235411:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0308/235411:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0308/235411:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0308/235411:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0308/235413:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0308/235413:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0308/235413:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0308/235413:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0308/235413:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0308/235413:WARNING:resource_bundle.cc(304)] locale_file_path.empty()
+[0308/235413:ERROR:main_delegate.cc(564)] Could not load locale pak for en-US
+[0308/235413:ERROR:main_delegate.cc(571)] Could not load cef.pak
+[0308/235413:ERROR:main_delegate.cc(588)] Could not load cef_100_percent.pak
+[0308/235413:ERROR:renderer_main.cc(207)] Running without renderer sandbox
+[0308/235446:ERROR:ipc_channel_win.cc(460)] pipe error: 232
